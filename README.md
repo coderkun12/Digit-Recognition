@@ -51,7 +51,7 @@ Open the jupyter notebook and run the GUI section. Please make sure you have dow
 - Clear contrast (preferably black digit on white background).
 - Image format: .png, .jpg, .jpeg (standard types supported).
 
-  ## 🧪 How It Works
+## 🧪 How It Works
 1. User clicks "Select Image" in the full-screen GUI.
 2. The selected image is:
    - Converted to grayscale
@@ -61,7 +61,7 @@ Open the jupyter notebook and run the GUI section. Please make sure you have dow
 3. The image is passed to the CNN for prediction.
 4. The predicted digit is shown below the image.
 
-## ## 🖼️ Output Preview
+## 🖼️ Output Preview
 
 ![Output Example](Output.png)
 
