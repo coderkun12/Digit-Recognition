@@ -44,9 +44,9 @@ cd Digit-Recognition
 pip install -r requirements.txt
 ```
 ### 3. Run the App:
-Open the jupyter notebook and run the GUI section. Please note you would need to run it on VS code or Jupyter lab and make sure you have downloaded keras file with the model before running it.
+Approach 1. Open the jupyter notebook and run the GUI section. Please note you would need to run it on VS code or Jupyter lab and make sure you have downloaded keras file with the model before running it.
 
-Another way to run the model is to download the app.py file and the mnist_model.keras file and run the app.py file in your terminal.
+Appraoch 2. Another way to run the model is to download the app.py file and the mnist_model.keras file and run the app.py file in your terminal.
 
 ## 🖼️ Image Requirements
 - The image should represent a single digit (0–9).
