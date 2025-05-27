@@ -4,7 +4,7 @@ This project is a handwritten digit recognition system built using a Convolution
 
 ---
 
-## 📦 Features
+## Features
 
 - Upload and classify your own digit images.
 - Clean and intuitive Tkinter-based GUI.
@@ -14,7 +14,7 @@ This project is a handwritten digit recognition system built using a Convolution
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Frontend GUI**: Python `tkinter`
 - **Model Training**: `TensorFlow` + `Keras`
@@ -22,7 +22,7 @@ This project is a handwritten digit recognition system built using a Convolution
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 - **mnist_project.ipynb**: Contains the python code for preprocessing data, training & evaluating the CNN for image recognition and the graphical interface.
 - **Output.png**: Contains the image of the output.
 - **Test_Images**: Folder contains images to test the model manually with GUI.
@@ -30,7 +30,7 @@ This project is a handwritten digit recognition system built using a Convolution
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -48,12 +48,12 @@ Approach 1: Open the jupyter notebook and run the GUI section. Please note you w
 
 Appraoch 2: Another way to run the model is to download the app.py file and the mnist_model.keras file and run the app.py file in your terminal.
 
-## 🖼️ Image Requirements
+## Image Requirements
 - The image should represent a single digit (0–9).
 - Clear contrast (preferably black digit on white background).
 - Image format: .png, .jpg, .jpeg (standard types supported).
 
-## 🧪 How It Works
+## How It Works
 1. User clicks "Select Image" in the full-screen GUI.
 2. The selected image is:
    - Converted to grayscale
@@ -63,7 +63,7 @@ Appraoch 2: Another way to run the model is to download the app.py file and the 
 3. The image is passed to the CNN for prediction.
 4. The predicted digit is shown below the image.
 
-## 🖼️ Output Preview
+## Output Preview
 
 ![Output Example](Output.png)
 
